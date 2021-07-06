@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🖥️ Working at [AmbevTech](https://www.ambevtech.com.br/), subsidiary of AB Inbev, as a Software Developer.
-
-📖 Learning Python FastAPI and React.
+- 🖥️ I’m currently working at [AmbevTech](https://www.ambevtech.com.br/), subsidiary of AB Inbev, as a Software Developer.
+- 📖 Learning Python FastAPI and React.
+- 💬 Ask me about: Development :)
+- 😄 Follow me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-deabreu/)](https://www.linkedin.com/in/gabriel-deabreu/)
 
 ### My Tech Stack
 
