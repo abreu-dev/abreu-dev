@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🖥️ I’m currently working at [AmbevTech](https://www.ambevtech.com.br/), subsidiary of AB Inbev, as a Software Developer.
-- 📖 Learning Python FastAPI and React.
+- 📖 Learning Python FastAPI and improving my Angular skills.
 - 💬 Ask me about: Development :)
 - 😄 Follow me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-deabreu/)](https://www.linkedin.com/in/gabriel-deabreu/)
+- ⚡ I'm currently posting a serie of articles about Angular Unit Testing in [Medium](https://medium.com/@gabriel.roberto.abreu)
 
 ### My Tech Stack
 
